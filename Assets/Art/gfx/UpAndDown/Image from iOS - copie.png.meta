@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 043e033874b2340b4a9930602d899437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1127285962304174090
+    second: Image from iOS - copie_0
+  - first:
+      213: 5788821604556906647
+    second: Image from iOS - copie_1
+  - first:
+      213: 205589323290382664
+    second: Image from iOS - copie_2
+  - first:
+      213: -728467671670626419
+    second: Image from iOS - copie_3
+  - first:
+      213: -4576643159229434898
+    second: Image from iOS - copie_4
+  - first:
+      213: -8133136409118826459
+    second: Image from iOS - copie_5
+  - first:
+      213: 1883073082619817874
+    second: Image from iOS - copie_6
+  - first:
+      213: 593386964842177507
+    second: Image from iOS - copie_7
+  - first:
+      213: -5520473282828434315
+    second: Image from iOS - copie_8
+  - first:
+      213: -5340172990017401318
+    second: Image from iOS - copie_9
+  - first:
+      213: 6611904199686024102
+    second: Image from iOS - copie_10
+  - first:
+      213: -5418752111275039958
+    second: Image from iOS - copie_11
+  - first:
+      213: 8418801615559869253
+    second: Image from iOS - copie_12
+  - first:
+      213: 5839392502565057103
+    second: Image from iOS - copie_13
+  - first:
+      213: -8746120219456579807
+    second: Image from iOS - copie_0
+  - first:
+      213: -1374800046160029804
+    second: Image from iOS - copie_1
+  - first:
+      213: 536061678650477101
+    second: Image from iOS - copie_2
+  - first:
+      213: 8929150237855058083
+    second: Image from iOS - copie_3
+  - first:
+      213: -5590435305823607275
+    second: Image from iOS - copie_4
+  - first:
+      213: -7694756799694075259
+    second: Image from iOS - copie_5
+  - first:
+      213: 6868321620030069225
+    second: Image from iOS - copie_6
+  - first:
+      213: 2964977079695867391
+    second: Image from iOS - copie_7
+  - first:
+      213: 3413015451565548709
+    second: Image from iOS - copie_8
+  - first:
+      213: -1798529181089683207
+    second: Image from iOS - copie_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Image from iOS - copie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127dd64dff98f9680800000000000000
+      internalID: -8746120219456579807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d07b54aabbece0800000000000000
+      internalID: -1374800046160029804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 578
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a49ada149707700800000000000000
+      internalID: 536061678650477101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 578
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8027925d6baeb70800000000000000
+      internalID: 8929150237855058083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 578
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e49075b8ca62b0800000000000000
+      internalID: -5590435305823607275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a8631957bb63590800000000000000
+      internalID: -7694756799694075259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9170d9f1e215f50800000000000000
+      internalID: 6868321620030069225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd7272e1f6b52920800000000000000
+      internalID: 2964977079695867391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 388
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4eb7368777d5f20800000000000000
+      internalID: 3413015451565548709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Image from iOS - copie_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 388
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8a9f22d375a07e0800000000000000
+      internalID: -1798529181089683207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

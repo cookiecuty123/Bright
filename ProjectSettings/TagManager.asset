@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sink
+    uniqueID: 824110305
+    locked: 0
+  - name: Carpet
+    uniqueID: 3808553477
+    locked: 0
+  - name: Player
+    uniqueID: 2089678863
+    locked: 0
+  - name: Walls
+    uniqueID: 639154311
+    locked: 0
+  - name: Bathroom
+    uniqueID: 2123809387
+    locked: 0
+  - name: Furniture
+    uniqueID: 1894627163
+    locked: 0
+  - name: button
+    uniqueID: 515222029
+    locked: 0

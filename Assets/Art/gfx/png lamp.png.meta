@@ -1,0 +1,3067 @@
+fileFormatVersion: 2
+guid: f84bfeaab8c52427ea979f1c7dd811f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7040909720227296540
+    second: png lamp_0
+  - first:
+      213: 2046620170348583498
+    second: png lamp_1
+  - first:
+      213: 4560026034186839229
+    second: png lamp_2
+  - first:
+      213: 8481572756019039971
+    second: png lamp_3
+  - first:
+      213: -4934097347885287118
+    second: png lamp_4
+  - first:
+      213: -8987906914690852781
+    second: png lamp_5
+  - first:
+      213: -8530615004905329961
+    second: png lamp_6
+  - first:
+      213: 6740202807378228077
+    second: png lamp_7
+  - first:
+      213: -3026605656721322631
+    second: png lamp_8
+  - first:
+      213: 7679183569300966321
+    second: png lamp_9
+  - first:
+      213: -3409012294874212700
+    second: png lamp_10
+  - first:
+      213: 2371103877547578112
+    second: png lamp_11
+  - first:
+      213: -4346157908021526327
+    second: png lamp_12
+  - first:
+      213: 5308542424380302921
+    second: png lamp_13
+  - first:
+      213: -7318092174893157333
+    second: png lamp_14
+  - first:
+      213: 91278714698316815
+    second: png lamp_15
+  - first:
+      213: -1478440686214560401
+    second: png lamp_16
+  - first:
+      213: -66087184413260024
+    second: png lamp_17
+  - first:
+      213: -1709951034751834214
+    second: png lamp_18
+  - first:
+      213: 1759177361753071738
+    second: png lamp_19
+  - first:
+      213: 5872951912075899231
+    second: png lamp_20
+  - first:
+      213: -4668202364506795087
+    second: png lamp_21
+  - first:
+      213: -821159997678412950
+    second: png lamp_22
+  - first:
+      213: 429786670207087160
+    second: png lamp_23
+  - first:
+      213: -5048349779448245527
+    second: png lamp_24
+  - first:
+      213: 4426884556093389850
+    second: png lamp_25
+  - first:
+      213: 5153727580223979678
+    second: png lamp_26
+  - first:
+      213: -4546097286799505481
+    second: png lamp_27
+  - first:
+      213: 4863605170382907983
+    second: png lamp_28
+  - first:
+      213: 7666811692269436059
+    second: png lamp_29
+  - first:
+      213: 509429730274692344
+    second: png lamp_30
+  - first:
+      213: 2379458514708496112
+    second: png lamp_31
+  - first:
+      213: -6010370152337500439
+    second: png lamp_32
+  - first:
+      213: -2150791027301193674
+    second: png lamp_33
+  - first:
+      213: 5364877743497748270
+    second: png lamp_34
+  - first:
+      213: -7580384460519392852
+    second: png lamp_35
+  - first:
+      213: 855851349786588648
+    second: png lamp_36
+  - first:
+      213: -7229056000980656326
+    second: png lamp_37
+  - first:
+      213: -8403411044234140145
+    second: png lamp_38
+  - first:
+      213: 501119489332343367
+    second: png lamp_39
+  - first:
+      213: -3394152742533638644
+    second: png lamp_40
+  - first:
+      213: -3779688299606319879
+    second: png lamp_41
+  - first:
+      213: 7016943567548422968
+    second: png lamp_42
+  - first:
+      213: 2739367309013544717
+    second: png lamp_43
+  - first:
+      213: 2164832169419440563
+    second: png lamp_44
+  - first:
+      213: -230761291258588536
+    second: png lamp_45
+  - first:
+      213: 7468890281969725786
+    second: png lamp_46
+  - first:
+      213: -4211139132659837016
+    second: png lamp_47
+  - first:
+      213: 1122238164110086919
+    second: png lamp_48
+  - first:
+      213: 8598420233233012626
+    second: png lamp_49
+  - first:
+      213: -1940371579528331020
+    second: png lamp_50
+  - first:
+      213: -1137550345437865593
+    second: png lamp_51
+  - first:
+      213: -3781235676426363717
+    second: png lamp_52
+  - first:
+      213: -8128407447326089241
+    second: png lamp_53
+  - first:
+      213: -7944794116864534030
+    second: png lamp_54
+  - first:
+      213: 1274518432797768833
+    second: png lamp_55
+  - first:
+      213: 7959570810678840252
+    second: png lamp_56
+  - first:
+      213: 5139444129967287956
+    second: png lamp_57
+  - first:
+      213: 2094155425224258392
+    second: png lamp_58
+  - first:
+      213: -94394389718145873
+    second: png lamp_59
+  - first:
+      213: -4759797736651088487
+    second: png lamp_60
+  - first:
+      213: 6793629218550388580
+    second: png lamp_61
+  - first:
+      213: 9068291004670497635
+    second: png lamp_62
+  - first:
+      213: 7702442193080034118
+    second: png lamp_63
+  - first:
+      213: 7336947986374583487
+    second: png lamp_64
+  - first:
+      213: -8859721714906372912
+    second: png lamp_65
+  - first:
+      213: 8364449711071219756
+    second: png lamp_66
+  - first:
+      213: -1579420385228706606
+    second: png lamp_67
+  - first:
+      213: -4692852109647869657
+    second: png lamp_68
+  - first:
+      213: 6819808284054993888
+    second: png lamp_69
+  - first:
+      213: -2812999887764939946
+    second: png lamp_70
+  - first:
+      213: -7586550157631957595
+    second: png lamp_71
+  - first:
+      213: 243567722459578301
+    second: png lamp_72
+  - first:
+      213: 2030447973991297465
+    second: png lamp_73
+  - first:
+      213: 515411492233145513
+    second: png lamp_74
+  - first:
+      213: -6876862042165332542
+    second: png lamp_75
+  - first:
+      213: -8874683464325139718
+    second: png lamp_76
+  - first:
+      213: 6551070055946962102
+    second: png lamp_77
+  - first:
+      213: 4214991080406383401
+    second: png lamp_78
+  - first:
+      213: 9078327989601954842
+    second: png lamp_79
+  - first:
+      213: -934399216660239747
+    second: png lamp_80
+  - first:
+      213: -3578457074805577425
+    second: png lamp_81
+  - first:
+      213: 2749530254831986642
+    second: png lamp_82
+  - first:
+      213: 4901358876218705457
+    second: png lamp_83
+  - first:
+      213: -5696351135695182120
+    second: png lamp_84
+  - first:
+      213: -3164241950964563621
+    second: png lamp_85
+  - first:
+      213: -1412194932374368746
+    second: png lamp_86
+  - first:
+      213: -5064729722528537020
+    second: png lamp_87
+  - first:
+      213: 8457206799406922979
+    second: png lamp_88
+  - first:
+      213: -2643364930381023120
+    second: png lamp_89
+  - first:
+      213: 8651139918826666773
+    second: png lamp_90
+  - first:
+      213: 9186163589480630216
+    second: png lamp_91
+  - first:
+      213: -1553821921589362771
+    second: png lamp_92
+  - first:
+      213: -6024248631611874366
+    second: png lamp_93
+  - first:
+      213: -5717184345220226582
+    second: png lamp_94
+  - first:
+      213: -5988670222812462470
+    second: png lamp_95
+  - first:
+      213: 8126598010498865316
+    second: png lamp_96
+  - first:
+      213: -3608188431599260042
+    second: png lamp_97
+  - first:
+      213: 7442740368222583735
+    second: png lamp_98
+  - first:
+      213: -3159367652382480548
+    second: png lamp_99
+  - first:
+      213: 5339965036488179913
+    second: png lamp_100
+  - first:
+      213: -4336823619674570046
+    second: png lamp_101
+  - first:
+      213: -4261245834808572352
+    second: png lamp_102
+  - first:
+      213: 1338077746359257684
+    second: png lamp_103
+  - first:
+      213: 8109237377793917185
+    second: png lamp_104
+  - first:
+      213: -1859226255312292311
+    second: png lamp_105
+  - first:
+      213: -8738037782175500615
+    second: png lamp_106
+  - first:
+      213: 5958208576379329040
+    second: png lamp_107
+  - first:
+      213: -6847253254000452545
+    second: png lamp_108
+  - first:
+      213: 222267953200822459
+    second: png lamp_109
+  - first:
+      213: -9027392705536691158
+    second: png lamp_110
+  - first:
+      213: 6571205360717300414
+    second: png lamp_111
+  - first:
+      213: -1624353593944842167
+    second: png lamp_112
+  - first:
+      213: -7409074516248055031
+    second: png lamp_113
+  - first:
+      213: -4153679792702361548
+    second: png lamp_114
+  - first:
+      213: 690147200933772476
+    second: png lamp_115
+  - first:
+      213: 5366008160141370099
+    second: png lamp_116
+  - first:
+      213: 7167472297015422501
+    second: png lamp_117
+  - first:
+      213: 3252098151272140759
+    second: png lamp_118
+  - first:
+      213: -9075999008385904926
+    second: png lamp_119
+  - first:
+      213: 995536472281399941
+    second: png lamp_120
+  - first:
+      213: 3208119332928868215
+    second: png lamp_121
+  - first:
+      213: 1821760973440696962
+    second: png lamp_122
+  - first:
+      213: -3437450348366176222
+    second: png lamp_123
+  - first:
+      213: 2375259792026846903
+    second: png lamp_124
+  - first:
+      213: -6013082595419673064
+    second: png lamp_125
+  - first:
+      213: -5315830689768708203
+    second: png lamp_126
+  - first:
+      213: 1371880654635717070
+    second: png lamp_127
+  - first:
+      213: 4581922783348133045
+    second: png lamp_128
+  - first:
+      213: -7600352703714722539
+    second: png lamp_129
+  - first:
+      213: 582788964234633542
+    second: png lamp_130
+  - first:
+      213: -3131988628029084856
+    second: png lamp_131
+  - first:
+      213: -6841545860336917953
+    second: png lamp_132
+  - first:
+      213: 331247812052060947
+    second: png lamp_133
+  - first:
+      213: 2848606334137113254
+    second: png lamp_134
+  - first:
+      213: -8758453014363913568
+    second: png lamp_135
+  - first:
+      213: -1006845956474960008
+    second: png lamp_136
+  - first:
+      213: -8874291446224609055
+    second: png lamp_137
+  - first:
+      213: -2725687395891360892
+    second: png lamp_138
+  - first:
+      213: -210397425654246345
+    second: png lamp_139
+  - first:
+      213: 8284037127742085176
+    second: png lamp_140
+  - first:
+      213: -8599440271948911132
+    second: png lamp_141
+  - first:
+      213: 7028832711202060638
+    second: png lamp_142
+  - first:
+      213: 1933145667619574799
+    second: png lamp_143
+  - first:
+      213: -4586949376245664297
+    second: png lamp_144
+  - first:
+      213: -3647940533213693397
+    second: png lamp_145
+  - first:
+      213: 753315671251750572
+    second: png lamp_146
+  - first:
+      213: -8395030463484923302
+    second: png lamp_147
+  - first:
+      213: 7230305332624843545
+    second: png lamp_148
+  - first:
+      213: 8673941344539505102
+    second: png lamp_149
+  - first:
+      213: 4581642155096636082
+    second: png lamp_150
+  - first:
+      213: 4511914180698266608
+    second: png lamp_151
+  - first:
+      213: 357398746096624245
+    second: png lamp_152
+  - first:
+      213: -7647554572305882396
+    second: png lamp_153
+  - first:
+      213: 8601132906689745860
+    second: png lamp_154
+  - first:
+      213: -2338385138912150833
+    second: png lamp_155
+  - first:
+      213: -367214550177166318
+    second: png lamp_156
+  - first:
+      213: -7783756400861358967
+    second: png lamp_157
+  - first:
+      213: -5474137815334677523
+    second: png lamp_158
+  - first:
+      213: 3008689449532230789
+    second: png lamp_159
+  - first:
+      213: -1759042358225314722
+    second: png lamp_160
+  - first:
+      213: 5772335549942046026
+    second: png lamp_161
+  - first:
+      213: 5603185842946627750
+    second: png lamp_162
+  - first:
+      213: 1733435602470551132
+    second: png lamp_163
+  - first:
+      213: 6352799335677481763
+    second: png lamp_164
+  - first:
+      213: 5855651107544084524
+    second: png lamp_165
+  - first:
+      213: 2667499404954260337
+    second: png lamp_166
+  - first:
+      213: 6080862736206277663
+    second: png lamp_167
+  - first:
+      213: 8174616987827923177
+    second: png lamp_168
+  - first:
+      213: 8393126494607735326
+    second: png lamp_169
+  - first:
+      213: -1270808475128183321
+    second: png lamp_170
+  - first:
+      213: 5745347995441536932
+    second: png lamp_171
+  - first:
+      213: 7688089456470920931
+    second: png lamp_172
+  - first:
+      213: 3722761921491607474
+    second: png lamp_173
+  - first:
+      213: -828414149047893218
+    second: png lamp_174
+  - first:
+      213: 3479694831952694762
+    second: png lamp_175
+  - first:
+      213: -6087326790400224705
+    second: png lamp_176
+  - first:
+      213: 1722326998931610166
+    second: png lamp_177
+  - first:
+      213: 3045614132705845788
+    second: png lamp_178
+  - first:
+      213: 8754537241633304431
+    second: png lamp_179
+  - first:
+      213: -6515181281509537168
+    second: png lamp_180
+  - first:
+      213: -8267324671905019213
+    second: png lamp_181
+  - first:
+      213: 7715164956584590795
+    second: png lamp_182
+  - first:
+      213: -6715679243042423124
+    second: png lamp_183
+  - first:
+      213: -2079521661378937631
+    second: png lamp_184
+  - first:
+      213: 2226611484355009551
+    second: png lamp_185
+  - first:
+      213: 1306240545323276981
+    second: png lamp_186
+  - first:
+      213: -7824684565757918975
+    second: png lamp_187
+  - first:
+      213: 4403487037466334817
+    second: png lamp_188
+  - first:
+      213: 2791705134908505972
+    second: png lamp_189
+  - first:
+      213: 3548139393835108384
+    second: png lamp_190
+  - first:
+      213: 5523411419841460515
+    second: png lamp_191
+  - first:
+      213: 1948688395584540016
+    second: png lamp_192
+  - first:
+      213: 4728351460179022145
+    second: png lamp_193
+  - first:
+      213: 7509967306268660233
+    second: png lamp_194
+  - first:
+      213: -1385506646936334730
+    second: png lamp_195
+  - first:
+      213: 3089721303382158951
+    second: png lamp_196
+  - first:
+      213: 2009767280914060809
+    second: png lamp_197
+  - first:
+      213: -2889991010798147046
+    second: png lamp_198
+  - first:
+      213: -5253122459368130507
+    second: png lamp_199
+  - first:
+      213: 5115749235995349867
+    second: png lamp_200
+  - first:
+      213: 2347470790897864690
+    second: png lamp_201
+  - first:
+      213: 6719842882634216826
+    second: png lamp_202
+  - first:
+      213: 1443482910363823512
+    second: png lamp_203
+  - first:
+      213: 1530186069555875461
+    second: png lamp_204
+  - first:
+      213: -3511168943699950672
+    second: png lamp_205
+  - first:
+      213: -3553297087466430310
+    second: png lamp_206
+  - first:
+      213: 4735604256567262141
+    second: png lamp_207
+  - first:
+      213: 8097096555267900749
+    second: png lamp_208
+  - first:
+      213: -7673287545817764783
+    second: png lamp_209
+  - first:
+      213: 2767004565855006774
+    second: png lamp_210
+  - first:
+      213: -7962788807654910239
+    second: png lamp_211
+  - first:
+      213: 1973350294231154633
+    second: png lamp_212
+  - first:
+      213: -3969083985705799177
+    second: png lamp_213
+  - first:
+      213: 8551045359077667061
+    second: png lamp_214
+  - first:
+      213: -6310279314881339865
+    second: png lamp_215
+  - first:
+      213: -6171721126257440727
+    second: png lamp_216
+  - first:
+      213: 2746284913842395386
+    second: png lamp_217
+  - first:
+      213: 5065594424443921702
+    second: png lamp_218
+  - first:
+      213: 6122958828623810091
+    second: png lamp_219
+  - first:
+      213: 5382697871352909488
+    second: png lamp_220
+  - first:
+      213: -2409587856208403097
+    second: png lamp_221
+  - first:
+      213: 1115834358852474172
+    second: png lamp_222
+  - first:
+      213: -4626488763651374809
+    second: png lamp_223
+  - first:
+      213: -352507832238432556
+    second: png lamp_224
+  - first:
+      213: -5617840576872853281
+    second: png lamp_225
+  - first:
+      213: 797935729572299869
+    second: png lamp_226
+  - first:
+      213: -5780744197847136650
+    second: png lamp_227
+  - first:
+      213: -6560920196338663694
+    second: png lamp_228
+  - first:
+      213: -6380237613420666872
+    second: png lamp_229
+  - first:
+      213: -982507942745601044
+    second: png lamp_230
+  - first:
+      213: 126309776771114304
+    second: png lamp_231
+  - first:
+      213: 1970984021135883323
+    second: png lamp_232
+  - first:
+      213: 3583877661857585401
+    second: png lamp_233
+  - first:
+      213: -5123027860719563717
+    second: png lamp_234
+  - first:
+      213: 8494582102424378388
+    second: png lamp_235
+  - first:
+      213: 6291275448786706205
+    second: png lamp_236
+  - first:
+      213: 580554709422462207
+    second: png lamp_237
+  - first:
+      213: -7121371772783114436
+    second: png lamp_238
+  - first:
+      213: 841876211126425498
+    second: png lamp_239
+  - first:
+      213: 3145339969311911861
+    second: png lamp_240
+  - first:
+      213: -8364987783196908503
+    second: png lamp_241
+  - first:
+      213: 8883914683699933197
+    second: png lamp_242
+  - first:
+      213: 8019047404604664491
+    second: png lamp_243
+  - first:
+      213: 2046500672011033834
+    second: png lamp_244
+  - first:
+      213: -2143468276605519262
+    second: png lamp_245
+  - first:
+      213: -2840268173982097517
+    second: png lamp_246
+  - first:
+      213: 4160822079463324835
+    second: png lamp_247
+  - first:
+      213: -5851043928692940996
+    second: png lamp_248
+  - first:
+      213: 381127477216696815
+    second: png lamp_249
+  - first:
+      213: -6843956952779451359
+    second: png lamp_250
+  - first:
+      213: 8942565664162771589
+    second: png lamp_251
+  - first:
+      213: -5266995351275506589
+    second: png lamp_252
+  - first:
+      213: -364968525213621937
+    second: png lamp_253
+  - first:
+      213: -5538834607630649783
+    second: png lamp_254
+  - first:
+      213: -5285637229996778021
+    second: png lamp_255
+  - first:
+      213: -4290607861988475847
+    second: png lamp_256
+  - first:
+      213: 412868079326019924
+    second: png lamp_257
+  - first:
+      213: 753867447335201180
+    second: png lamp_258
+  - first:
+      213: 225398918960347569
+    second: png lamp_259
+  - first:
+      213: -7418266470149355165
+    second: png lamp_260
+  - first:
+      213: 1832332113265868159
+    second: png lamp_261
+  - first:
+      213: -820719848927045570
+    second: png lamp_262
+  - first:
+      213: 5875365501851794647
+    second: png lamp_263
+  - first:
+      213: -4201831614578468063
+    second: png lamp_264
+  - first:
+      213: 8994328313502289559
+    second: png lamp_265
+  - first:
+      213: -2232330532553476067
+    second: png lamp_266
+  - first:
+      213: -737512095766944840
+    second: png lamp_267
+  - first:
+      213: 4923338724151207760
+    second: png lamp_268
+  - first:
+      213: -7094699787757763984
+    second: png lamp_269
+  - first:
+      213: -3575872349100163583
+    second: png lamp_270
+  - first:
+      213: 4420105267635388890
+    second: png lamp_271
+  - first:
+      213: -7056790222553194327
+    second: png lamp_272
+  - first:
+      213: -1269231087502401266
+    second: png lamp_273
+  - first:
+      213: 2336086488589435760
+    second: png lamp_274
+  - first:
+      213: 61318973475400107
+    second: png lamp_275
+  - first:
+      213: 7864707556668518770
+    second: png lamp_276
+  - first:
+      213: -5475935604267840493
+    second: png lamp_277
+  - first:
+      213: -3245993166831292482
+    second: png lamp_278
+  - first:
+      213: -7549427008656089571
+    second: png lamp_279
+  - first:
+      213: -6451084566826582262
+    second: png lamp_280
+  - first:
+      213: -5957821257141347851
+    second: png lamp_281
+  - first:
+      213: -7744795103815930733
+    second: png lamp_282
+  - first:
+      213: -2952352090451132164
+    second: png lamp_283
+  - first:
+      213: -2687422263012068035
+    second: png lamp_284
+  - first:
+      213: 6994259929790616778
+    second: png lamp_285
+  - first:
+      213: -1267191427083136128
+    second: png lamp_286
+  - first:
+      213: 2311457598045487032
+    second: png lamp_287
+  - first:
+      213: 5059501017551456653
+    second: png lamp_288
+  - first:
+      213: 8124343185089060366
+    second: png lamp_289
+  - first:
+      213: 6250667909904819946
+    second: png lamp_290
+  - first:
+      213: 4938756092402877584
+    second: png lamp_291
+  - first:
+      213: 2540771814842367813
+    second: png lamp_292
+  - first:
+      213: -5291210417999727600
+    second: png lamp_293
+  - first:
+      213: 4924683979183368840
+    second: png lamp_294
+  - first:
+      213: -9145277717210845752
+    second: png lamp_295
+  - first:
+      213: 685894482778859740
+    second: png lamp_296
+  - first:
+      213: -7460885948808971614
+    second: png lamp_297
+  - first:
+      213: -35292685601772646
+    second: png lamp_298
+  - first:
+      213: 259269067572511167
+    second: png lamp_299
+  - first:
+      213: 2474317057741821546
+    second: png lamp_300
+  - first:
+      213: 4898512517529274723
+    second: png lamp_301
+  - first:
+      213: 3334881687664130542
+    second: png lamp_302
+  - first:
+      213: 917643271629992973
+    second: png lamp_303
+  - first:
+      213: -7116469568647806460
+    second: png lamp_304
+  - first:
+      213: 4626959167707202989
+    second: png lamp_305
+  - first:
+      213: 724837098298301714
+    second: png lamp_306
+  - first:
+      213: -8356760365120100698
+    second: png lamp_307
+  - first:
+      213: 8556285963078087571
+    second: png lamp_308
+  - first:
+      213: -2634579634321111625
+    second: png lamp_309
+  - first:
+      213: 939535251747913678
+    second: png lamp_310
+  - first:
+      213: -6550812351800958176
+    second: png lamp_311
+  - first:
+      213: -4961986078570767805
+    second: png lamp_312
+  - first:
+      213: 5849919548472593901
+    second: png lamp_313
+  - first:
+      213: -4590322895756167961
+    second: png lamp_314
+  - first:
+      213: 4985145638779306480
+    second: png lamp_315
+  - first:
+      213: 8810777627165002369
+    second: png lamp_316
+  - first:
+      213: 6715444259811091986
+    second: png lamp_317
+  - first:
+      213: -8759752451605080311
+    second: png lamp_318
+  - first:
+      213: 7040302499188865344
+    second: png lamp_319
+  - first:
+      213: -2690172305287495717
+    second: png lamp_320
+  - first:
+      213: -3348797100662590489
+    second: png lamp_321
+  - first:
+      213: -8183760379381231468
+    second: png lamp_322
+  - first:
+      213: -5640956455467170624
+    second: png lamp_323
+  - first:
+      213: -819862143942385295
+    second: png lamp_324
+  - first:
+      213: 4824460874422253403
+    second: png lamp_325
+  - first:
+      213: -340839560972367015
+    second: png lamp_326
+  - first:
+      213: -4437488410800021144
+    second: png lamp_327
+  - first:
+      213: -1911819189697651134
+    second: png lamp_328
+  - first:
+      213: 6608817930024050228
+    second: png lamp_329
+  - first:
+      213: 1672746716296283795
+    second: png lamp_330
+  - first:
+      213: 4787948997756935129
+    second: png lamp_331
+  - first:
+      213: 5904498912579827696
+    second: png lamp_332
+  - first:
+      213: 2233054141460343299
+    second: png lamp_333
+  - first:
+      213: 7401458878173530678
+    second: png lamp_334
+  - first:
+      213: 795727956233890028
+    second: png lamp_335
+  - first:
+      213: -2351467766605975033
+    second: png lamp_336
+  - first:
+      213: -2101880153663647806
+    second: png lamp_337
+  - first:
+      213: -6235412555564553919
+    second: png lamp_338
+  - first:
+      213: -8969412994258707744
+    second: png lamp_339
+  - first:
+      213: 2451559241133383305
+    second: png lamp_340
+  - first:
+      213: -167803563230897800
+    second: png lamp_341
+  - first:
+      213: 437436807216227562
+    second: png lamp_342
+  - first:
+      213: 7014082428683945934
+    second: png lamp_343
+  - first:
+      213: -5799531056648596709
+    second: png lamp_344
+  - first:
+      213: -3402691353849145980
+    second: png lamp_345
+  - first:
+      213: 3762968691249860449
+    second: png lamp_346
+  - first:
+      213: -7858591388442966079
+    second: png lamp_347
+  - first:
+      213: -8338772150558413441
+    second: png lamp_348
+  - first:
+      213: 1715711439473024440
+    second: png lamp_349
+  - first:
+      213: -3701732023931187860
+    second: png lamp_350
+  - first:
+      213: 7489873706351368878
+    second: png lamp_351
+  - first:
+      213: -6490526578886643623
+    second: png lamp_352
+  - first:
+      213: -788235251594108176
+    second: png lamp_353
+  - first:
+      213: -8974419495869337380
+    second: png lamp_354
+  - first:
+      213: 6286445946640551495
+    second: png lamp_355
+  - first:
+      213: -6820190676882564407
+    second: png lamp_356
+  - first:
+      213: 1882227721077505720
+    second: png lamp_357
+  - first:
+      213: 5489249091521185546
+    second: png lamp_358
+  - first:
+      213: 939782514819813128
+    second: png lamp_359
+  - first:
+      213: -1796092139472118741
+    second: png lamp_360
+  - first:
+      213: 8072258774554245437
+    second: png lamp_361
+  - first:
+      213: -791684742746300471
+    second: png lamp_362
+  - first:
+      213: 1581752036375185456
+    second: png lamp_363
+  - first:
+      213: 6633729765202450387
+    second: png lamp_364
+  - first:
+      213: -7842925748863871700
+    second: png lamp_365
+  - first:
+      213: 7146860409208679943
+    second: png lamp_366
+  - first:
+      213: 8975538478079326392
+    second: png lamp_367
+  - first:
+      213: 9114015257516313349
+    second: png lamp_368
+  - first:
+      213: 7873881695643166055
+    second: png lamp_369
+  - first:
+      213: -8464679737008641626
+    second: png lamp_370
+  - first:
+      213: -7399864307820667915
+    second: png lamp_371
+  - first:
+      213: 8454384543094751025
+    second: png lamp_372
+  - first:
+      213: -1286634539072998256
+    second: png lamp_373
+  - first:
+      213: -6434918455481585075
+    second: png lamp_374
+  - first:
+      213: 7306757087849357181
+    second: png lamp_375
+  - first:
+      213: -423827861229771732
+    second: png lamp_376
+  - first:
+      213: 7526509954005263232
+    second: png lamp_377
+  - first:
+      213: 2436848759974888831
+    second: png lamp_378
+  - first:
+      213: 4662375709789648037
+    second: png lamp_379
+  - first:
+      213: -4747129835909344604
+    second: png lamp_380
+  - first:
+      213: 7489005092947623849
+    second: png lamp_381
+  - first:
+      213: -2379633028291432209
+    second: png lamp_382
+  - first:
+      213: -2888813971363509412
+    second: png lamp_383
+  - first:
+      213: 286533537030927314
+    second: png lamp_384
+  - first:
+      213: -4036200396528151539
+    second: png lamp_385
+  - first:
+      213: 4983948538309118526
+    second: png lamp_386
+  - first:
+      213: 3699989685689460621
+    second: png lamp_387
+  - first:
+      213: -6313417227536987426
+    second: png lamp_388
+  - first:
+      213: -4780869763179350259
+    second: png lamp_389
+  - first:
+      213: -3493989799661788271
+    second: png lamp_390
+  - first:
+      213: 653463865669720152
+    second: png lamp_391
+  - first:
+      213: -1894197162101346394
+    second: png lamp_392
+  - first:
+      213: 771951399260361929
+    second: png lamp_393
+  - first:
+      213: -5030086579325044475
+    second: png lamp_394
+  - first:
+      213: 352902791105255548
+    second: png lamp_395
+  - first:
+      213: -8540204194490200988
+    second: png lamp_396
+  - first:
+      213: 8126912159906787399
+    second: png lamp_397
+  - first:
+      213: 613008783720866781
+    second: png lamp_398
+  - first:
+      213: -3555564168139414128
+    second: png lamp_399
+  - first:
+      213: -4008574993454644962
+    second: png lamp_400
+  - first:
+      213: 3063324964322162185
+    second: png lamp_401
+  - first:
+      213: 7695046073743700407
+    second: png lamp_402
+  - first:
+      213: -8964602357434757517
+    second: png lamp_403
+  - first:
+      213: 7610492460177247346
+    second: png lamp_404
+  - first:
+      213: -111333949698023199
+    second: png lamp_405
+  - first:
+      213: -4587733434996120789
+    second: png lamp_406
+  - first:
+      213: -6774431902387503229
+    second: png lamp_407
+  - first:
+      213: -8915014597947343408
+    second: png lamp_408
+  - first:
+      213: 5832198718412814642
+    second: png lamp_409
+  - first:
+      213: -979895665440178040
+    second: png lamp_410
+  - first:
+      213: 3036397363721886530
+    second: png lamp_411
+  - first:
+      213: -4053541887351876713
+    second: png lamp_412
+  - first:
+      213: 3450111432672602386
+    second: png lamp_413
+  - first:
+      213: -4937425650397848901
+    second: png lamp_414
+  - first:
+      213: -3009006752503219657
+    second: png lamp_415
+  - first:
+      213: -4740834698667641462
+    second: png lamp_416
+  - first:
+      213: -2893085532535207437
+    second: png lamp_417
+  - first:
+      213: -1987538687165910278
+    second: png lamp_418
+  - first:
+      213: 218961253986345001
+    second: png lamp_419
+  - first:
+      213: 3244389132789013102
+    second: png lamp_420
+  - first:
+      213: -6473540478066490682
+    second: png lamp_421
+  - first:
+      213: -2939063394043368378
+    second: png lamp_422
+  - first:
+      213: -9191559856245401802
+    second: png lamp_423
+  - first:
+      213: -5192170285573247254
+    second: png lamp_424
+  - first:
+      213: -401779767245866699
+    second: png lamp_425
+  - first:
+      213: -4508186004788916280
+    second: png lamp_426
+  - first:
+      213: -637392453947406455
+    second: png lamp_427
+  - first:
+      213: 6314761206477313359
+    second: png lamp_428
+  - first:
+      213: 3203643015171679329
+    second: png lamp_429
+  - first:
+      213: 4180491735312921008
+    second: png lamp_430
+  - first:
+      213: 2297188224630866320
+    second: png lamp_431
+  - first:
+      213: 5780165366592597296
+    second: png lamp_432
+  - first:
+      213: 6398752609016555622
+    second: png lamp_433
+  - first:
+      213: 2926409267341990515
+    second: png lamp_434
+  - first:
+      213: 8808599667953856931
+    second: png lamp_435
+  - first:
+      213: 4171178058168640784
+    second: png lamp_436
+  - first:
+      213: -274864401351780540
+    second: png lamp_437
+  - first:
+      213: -2745771967072351973
+    second: png lamp_438
+  - first:
+      213: 5542437546767467362
+    second: png lamp_439
+  - first:
+      213: 1424864876586311710
+    second: png lamp_440
+  - first:
+      213: 186533166083885544
+    second: png lamp_441
+  - first:
+      213: -2407482907065821038
+    second: png lamp_442
+  - first:
+      213: 8725387757698701169
+    second: png lamp_443
+  - first:
+      213: -5587514966956774600
+    second: png lamp_444
+  - first:
+      213: -998600183268039865
+    second: png lamp_445
+  - first:
+      213: -1547071183331333345
+    second: png lamp_446
+  - first:
+      213: 4455607696284480111
+    second: png lamp_447
+  - first:
+      213: 616648597976787759
+    second: png lamp_448
+  - first:
+      213: -9127652760479797503
+    second: png lamp_449
+  - first:
+      213: -1924561376426760414
+    second: png lamp_450
+  - first:
+      213: 6626122612195214838
+    second: png lamp_451
+  - first:
+      213: -2107580475298029560
+    second: png lamp_452
+  - first:
+      213: -8726018900930325197
+    second: png lamp_453
+  - first:
+      213: -342091829361433500
+    second: png lamp_454
+  - first:
+      213: -8362024510973218783
+    second: png lamp_455
+  - first:
+      213: 7000446400993384016
+    second: png lamp_456
+  - first:
+      213: 6210729836864914476
+    second: png lamp_457
+  - first:
+      213: -3800865975989715495
+    second: png lamp_458
+  - first:
+      213: 5708868195092011574
+    second: png lamp_459
+  - first:
+      213: 4767977016268611343
+    second: png lamp_460
+  - first:
+      213: -8605395790584047191
+    second: png lamp_461
+  - first:
+      213: 6905255124246904295
+    second: png lamp_462
+  - first:
+      213: -127214521605674588
+    second: png lamp_463
+  - first:
+      213: -8678586150959076659
+    second: png lamp_464
+  - first:
+      213: 4055096339024519043
+    second: png lamp_465
+  - first:
+      213: 6339103554612022864
+    second: png lamp_466
+  - first:
+      213: -5098512882973614190
+    second: png lamp_467
+  - first:
+      213: -6389499244594591584
+    second: png lamp_468
+  - first:
+      213: -4243326823444187179
+    second: png lamp_469
+  - first:
+      213: -4313258543495644888
+    second: png lamp_470
+  - first:
+      213: 2810958853030089270
+    second: png lamp_471
+  - first:
+      213: 3149376516241844213
+    second: png lamp_472
+  - first:
+      213: 7051818909094254069
+    second: png lamp_473
+  - first:
+      213: 1647297262436747818
+    second: png lamp_474
+  - first:
+      213: -7182440569237426549
+    second: png lamp_475
+  - first:
+      213: -3734417479931582203
+    second: png lamp_476
+  - first:
+      213: 8324325063190307974
+    second: png lamp_477
+  - first:
+      213: -981115923007645138
+    second: png lamp_478
+  - first:
+      213: -1741216029214959457
+    second: png lamp_479
+  - first:
+      213: 2295533288051910589
+    second: png lamp_480
+  - first:
+      213: -1520187266481332424
+    second: png lamp_481
+  - first:
+      213: 6238857070519737140
+    second: png lamp_482
+  - first:
+      213: -2735785184836472504
+    second: png lamp_483
+  - first:
+      213: 3035557989469798583
+    second: png lamp_484
+  - first:
+      213: 2824049973990956398
+    second: png lamp_485
+  - first:
+      213: 8492435579097770833
+    second: png lamp_486
+  - first:
+      213: 4259429215797586986
+    second: png lamp_487
+  - first:
+      213: 1135527991353391351
+    second: png lamp_488
+  - first:
+      213: 1173349369305221004
+    second: png lamp_489
+  - first:
+      213: -2741273605883586181
+    second: png lamp_490
+  - first:
+      213: 3159811470073633374
+    second: png lamp_491
+  - first:
+      213: 7076479327383322409
+    second: png lamp_492
+  - first:
+      213: -7561616884279224841
+    second: png lamp_493
+  - first:
+      213: -4860877919303914213
+    second: png lamp_494
+  - first:
+      213: -9081014705599221471
+    second: png lamp_495
+  - first:
+      213: 1496167471960597885
+    second: png lamp_496
+  - first:
+      213: 5617679741761033058
+    second: png lamp_497
+  - first:
+      213: -3123952491622324282
+    second: png lamp_498
+  - first:
+      213: -4088248901968443843
+    second: png lamp_499
+  - first:
+      213: 4633157546801624142
+    second: png lamp_500
+  - first:
+      213: -2849859672662387264
+    second: png lamp_501
+  - first:
+      213: -5725448868830832923
+    second: png lamp_502
+  - first:
+      213: -5958371266703179798
+    second: png lamp_503
+  - first:
+      213: -124244998332902342
+    second: png lamp_504
+  - first:
+      213: -6381137812588660117
+    second: png lamp_505
+  - first:
+      213: 2222264823077227173
+    second: png lamp_506
+  - first:
+      213: -8658934095585328397
+    second: png lamp_507
+  - first:
+      213: 662073957948568726
+    second: png lamp_508
+  - first:
+      213: -7506712576701415413
+    second: png lamp_509
+  - first:
+      213: -3164709657497885898
+    second: png lamp_510
+  - first:
+      213: -201661010722706578
+    second: png lamp_511
+  - first:
+      213: 1862175714666429004
+    second: png lamp_512
+  - first:
+      213: -5983589410298961293
+    second: png lamp_513
+  - first:
+      213: 5543955752040798300
+    second: png lamp_514
+  - first:
+      213: -2445287882986685999
+    second: png lamp_515
+  - first:
+      213: 3657398445269046973
+    second: png lamp_516
+  - first:
+      213: -4290624089447998196
+    second: png lamp_517
+  - first:
+      213: 7262141883643188040
+    second: png lamp_518
+  - first:
+      213: 1976804831777203817
+    second: png lamp_519
+  - first:
+      213: -4287848596697891142
+    second: png lamp_520
+  - first:
+      213: 2271426136308181967
+    second: png lamp_521
+  - first:
+      213: 5751875238287122712
+    second: png lamp_522
+  - first:
+      213: -1841907220572740330
+    second: png lamp_523
+  - first:
+      213: -7111342424287921281
+    second: png lamp_524
+  - first:
+      213: -8534303453037701703
+    second: png lamp_525
+  - first:
+      213: -8334400271235054641
+    second: png lamp_526
+  - first:
+      213: 3466482489826213967
+    second: png lamp_527
+  - first:
+      213: -8142396631453602105
+    second: png lamp_528
+  - first:
+      213: -8425091493987217922
+    second: png lamp_529
+  - first:
+      213: -7791601266144821359
+    second: png lamp_530
+  - first:
+      213: 1100966168565281404
+    second: png lamp_531
+  - first:
+      213: 4978703801770516306
+    second: png lamp_532
+  - first:
+      213: 62761693397885570
+    second: png lamp_533
+  - first:
+      213: -6032465052981029779
+    second: png lamp_534
+  - first:
+      213: -5359908590754251524
+    second: png lamp_535
+  - first:
+      213: 4708790475871134765
+    second: png lamp_536
+  - first:
+      213: -6998670538613075579
+    second: png lamp_537
+  - first:
+      213: -8377021753699273812
+    second: png lamp_538
+  - first:
+      213: -3106942626625383452
+    second: png lamp_539
+  - first:
+      213: 3816803120590412385
+    second: png lamp_540
+  - first:
+      213: 4522517487231015899
+    second: png lamp_541
+  - first:
+      213: 5949131966303032497
+    second: png lamp_542
+  - first:
+      213: 8278038762394877788
+    second: png lamp_543
+  - first:
+      213: 8580382609165939183
+    second: png lamp_544
+  - first:
+      213: 2144243891373743782
+    second: png lamp_545
+  - first:
+      213: -692365609281939888
+    second: png lamp_546
+  - first:
+      213: 7858487036233748021
+    second: png lamp_547
+  - first:
+      213: 5281517909757862787
+    second: png lamp_548
+  - first:
+      213: -8780689914294414968
+    second: png lamp_549
+  - first:
+      213: -5528292296014776462
+    second: png lamp_550
+  - first:
+      213: 6150528996130482402
+    second: png lamp_551
+  - first:
+      213: 5329923195865780705
+    second: png lamp_552
+  - first:
+      213: -2564563880995695605
+    second: png lamp_553
+  - first:
+      213: 2484932432420269457
+    second: png lamp_554
+  - first:
+      213: 921852739309429993
+    second: png lamp_555
+  - first:
+      213: 5216392278915570612
+    second: png lamp_556
+  - first:
+      213: -9003572941766781631
+    second: png lamp_557
+  - first:
+      213: -1493345797623767878
+    second: png lamp_558
+  - first:
+      213: -263152135367937778
+    second: png lamp_559
+  - first:
+      213: 8710422996377016519
+    second: png lamp_560
+  - first:
+      213: -2933926984303984354
+    second: png lamp_561
+  - first:
+      213: 4890534180685261627
+    second: png lamp_562
+  - first:
+      213: -1141134467197852838
+    second: png lamp_563
+  - first:
+      213: 5423794590607149382
+    second: png lamp_564
+  - first:
+      213: -7320422446972018517
+    second: png lamp_565
+  - first:
+      213: 8437650353493781732
+    second: png lamp_566
+  - first:
+      213: -5321666366348340547
+    second: png lamp_567
+  - first:
+      213: -5237537563591117795
+    second: png lamp_568
+  - first:
+      213: -6714292904604027837
+    second: png lamp_569
+  - first:
+      213: 8642639194697645332
+    second: png lamp_570
+  - first:
+      213: -6029301841212732518
+    second: png lamp_571
+  - first:
+      213: 6256736229090408798
+    second: png lamp_572
+  - first:
+      213: -8584225297140229677
+    second: png lamp_573
+  - first:
+      213: 4935523115961790210
+    second: png lamp_574
+  - first:
+      213: 1175855736873322471
+    second: png lamp_575
+  - first:
+      213: -4008877879243886772
+    second: png lamp_576
+  - first:
+      213: -2254053862797550234
+    second: png lamp_577
+  - first:
+      213: -6168147818280720581
+    second: png lamp_578
+  - first:
+      213: 5269890983991205877
+    second: png lamp_579
+  - first:
+      213: 4648513970933922298
+    second: png lamp_580
+  - first:
+      213: -8770650054106781512
+    second: png lamp_581
+  - first:
+      213: 1248551722120846100
+    second: png lamp_582
+  - first:
+      213: 4922020977552671225
+    second: png lamp_583
+  - first:
+      213: 7635582337209886084
+    second: png lamp_584
+  - first:
+      213: 1757509142355868667
+    second: png lamp_585
+  - first:
+      213: 1061454978165113856
+    second: png lamp_586
+  - first:
+      213: -6813444950653568351
+    second: png lamp_587
+  - first:
+      213: -5682817544186279978
+    second: png lamp_588
+  - first:
+      213: 4110556219690381687
+    second: png lamp_589
+  - first:
+      213: 9121463890838573613
+    second: png lamp_590
+  - first:
+      213: -217098019903550706
+    second: png lamp_591
+  - first:
+      213: -3701456895664360611
+    second: png lamp_592
+  - first:
+      213: 307284472874578036
+    second: png lamp_593
+  - first:
+      213: 8636827762707492241
+    second: png lamp_594
+  - first:
+      213: -618983175721292528
+    second: png lamp_595
+  - first:
+      213: -6368700852572554946
+    second: png lamp_596
+  - first:
+      213: -1213802148457469983
+    second: png lamp_597
+  - first:
+      213: 1947927435959656818
+    second: png lamp_598
+  - first:
+      213: 19335340263505931
+    second: png lamp_599
+  - first:
+      213: -6784951706384245368
+    second: png lamp_600
+  - first:
+      213: -8555486366979457091
+    second: png lamp_601
+  - first:
+      213: -1786448603249064384
+    second: png lamp_602
+  - first:
+      213: 3015717625618915195
+    second: png lamp_603
+  - first:
+      213: 4560221565831494057
+    second: png lamp_604
+  - first:
+      213: -4025143812355582391
+    second: png lamp_605
+  - first:
+      213: -8255076675967259371
+    second: png lamp_606
+  - first:
+      213: 6458252315860400343
+    second: png lamp_607
+  - first:
+      213: 636909726367526972
+    second: png lamp_608
+  - first:
+      213: -4083629125483602250
+    second: png lamp_609
+  - first:
+      213: -3583951818648383132
+    second: png lamp_610
+  - first:
+      213: -8671219018565135143
+    second: png lamp_611
+  - first:
+      213: -9083051242581720561
+    second: png lamp_612
+  - first:
+      213: -3287727396329660981
+    second: png lamp_613
+  - first:
+      213: 1509030611479891484
+    second: png lamp_614
+  - first:
+      213: 2919429150371344009
+    second: png lamp_615
+  - first:
+      213: 663635454897343797
+    second: png lamp_616
+  - first:
+      213: 788471070698043245
+    second: png lamp_617
+  - first:
+      213: 7394939763268288448
+    second: png lamp_618
+  - first:
+      213: 2140890862949807752
+    second: png lamp_619
+  - first:
+      213: -1251312091687906032
+    second: png lamp_620
+  - first:
+      213: -1781740543148454485
+    second: png lamp_621
+  - first:
+      213: -5480044189943099557
+    second: png lamp_622
+  - first:
+      213: 3783577215928060017
+    second: png lamp_623
+  - first:
+      213: -8991816215107460352
+    second: png lamp_624
+  - first:
+      213: -132363356154724136
+    second: png lamp_625
+  - first:
+      213: 1681536056278102312
+    second: png lamp_626
+  - first:
+      213: 7737811248317326626
+    second: png lamp_627
+  - first:
+      213: 3965162549588782547
+    second: png lamp_628
+  - first:
+      213: -7956075825708527108
+    second: png lamp_629
+  - first:
+      213: -8048350725870318000
+    second: png lamp_630
+  - first:
+      213: -4816900976495370006
+    second: png lamp_631
+  - first:
+      213: 1697395891811028356
+    second: png lamp_632
+  - first:
+      213: -2179384199875366728
+    second: png lamp_633
+  - first:
+      213: 3906573670012540907
+    second: png lamp_634
+  - first:
+      213: 2730966361943956109
+    second: png lamp_635
+  - first:
+      213: 3455398412752262647
+    second: png lamp_636
+  - first:
+      213: 7448292274827885322
+    second: png lamp_637
+  - first:
+      213: 8956537389554507410
+    second: png lamp_638
+  - first:
+      213: 2157796620356409187
+    second: png lamp_639
+  - first:
+      213: 6416480546894048010
+    second: png lamp_640
+  - first:
+      213: -8342620163753672470
+    second: png lamp_641
+  - first:
+      213: 5235634799008561421
+    second: png lamp_642
+  - first:
+      213: 2791444029052333383
+    second: png lamp_643
+  - first:
+      213: -1980096701897029512
+    second: png lamp_644
+  - first:
+      213: -5359272797194621333
+    second: png lamp_645
+  - first:
+      213: 6617921084434821728
+    second: png lamp_646
+  - first:
+      213: 7581618252498595882
+    second: png lamp_647
+  - first:
+      213: -8794998829406955525
+    second: png lamp_648
+  - first:
+      213: 9061700842962928598
+    second: png lamp_649
+  - first:
+      213: -5345436237721870866
+    second: png lamp_650
+  - first:
+      213: -5548763871113461017
+    second: png lamp_651
+  - first:
+      213: 5470289765696658428
+    second: png lamp_652
+  - first:
+      213: -7922621073703472521
+    second: png lamp_653
+  - first:
+      213: 5329070041480284647
+    second: png lamp_654
+  - first:
+      213: -4560601646837964950
+    second: png lamp_655
+  - first:
+      213: 4636977212124352893
+    second: png lamp_656
+  - first:
+      213: -3111422830677834789
+    second: png lamp_657
+  - first:
+      213: -1315502887707194563
+    second: png lamp_658
+  - first:
+      213: -8654823259346481209
+    second: png lamp_659
+  - first:
+      213: 8278506277553827801
+    second: png lamp_660
+  - first:
+      213: 2410361370215705233
+    second: png lamp_661
+  - first:
+      213: -4063243874938952396
+    second: png lamp_662
+  - first:
+      213: -1990991197704454191
+    second: png lamp_663
+  - first:
+      213: 7051128527160927950
+    second: png lamp_664
+  - first:
+      213: -7510029837537755418
+    second: png lamp_665
+  - first:
+      213: -816947263278295976
+    second: png lamp_666
+  - first:
+      213: 1480674339466592014
+    second: png lamp_667
+  - first:
+      213: -9018818495977020045
+    second: png lamp_668
+  - first:
+      213: -4455682869033861275
+    second: png lamp_669
+  - first:
+      213: -5182864190698304999
+    second: png lamp_670
+  - first:
+      213: 4062991475249784218
+    second: png lamp_671
+  - first:
+      213: -307021484451622929
+    second: png lamp_672
+  - first:
+      213: 4584432977521551163
+    second: png lamp_673
+  - first:
+      213: 9168477863914201631
+    second: png lamp_674
+  - first:
+      213: 1357897941172611197
+    second: png lamp_675
+  - first:
+      213: -6331220401395097647
+    second: png lamp_676
+  - first:
+      213: -4142617303486443472
+    second: png lamp_677
+  - first:
+      213: -163113782169820263
+    second: png lamp_678
+  - first:
+      213: -6554360585157928967
+    second: png lamp_679
+  - first:
+      213: 7324462411845728766
+    second: png lamp_680
+  - first:
+      213: -2311122360815612938
+    second: png lamp_681
+  - first:
+      213: 1256686367409448297
+    second: png lamp_682
+  - first:
+      213: 7644681264584420701
+    second: png lamp_683
+  - first:
+      213: 5382962050171664645
+    second: png lamp_684
+  - first:
+      213: 3568896307368317824
+    second: png lamp_685
+  - first:
+      213: -8207012221617462040
+    second: png lamp_686
+  - first:
+      213: 7167097132780463764
+    second: png lamp_687
+  - first:
+      213: -8470573098336269884
+    second: png lamp_688
+  - first:
+      213: 8236076822754558451
+    second: png lamp_689
+  - first:
+      213: -18759233787008299
+    second: png lamp_690
+  - first:
+      213: -8366713897087404262
+    second: png lamp_691
+  - first:
+      213: 4014137443385735895
+    second: png lamp_692
+  - first:
+      213: -2982741909832865273
+    second: png lamp_693
+  - first:
+      213: 7543075404694574743
+    second: png lamp_694
+  - first:
+      213: 5847503225111954144
+    second: png lamp_695
+  - first:
+      213: 3578147624770140776
+    second: png lamp_696
+  - first:
+      213: 3893788036181712444
+    second: png lamp_697
+  - first:
+      213: 1834621136120641757
+    second: png lamp_698
+  - first:
+      213: -1785139136818947475
+    second: png lamp_699
+  - first:
+      213: -3964157714520955228
+    second: png lamp_700
+  - first:
+      213: 2072557326574417144
+    second: png lamp_701
+  - first:
+      213: -5522685820637647495
+    second: png lamp_702
+  - first:
+      213: -2455805122984767168
+    second: png lamp_703
+  - first:
+      213: -7317092031634148240
+    second: png lamp_704
+  - first:
+      213: 4293749138920378835
+    second: png lamp_705
+  - first:
+      213: 2781673063136078732
+    second: png lamp_706
+  - first:
+      213: -2532351747926701085
+    second: png lamp_707
+  - first:
+      213: 305062990915600043
+    second: png lamp_708
+  - first:
+      213: -7266605152165725894
+    second: png lamp_709
+  - first:
+      213: -397815555920578301
+    second: png lamp_710
+  - first:
+      213: -1212158214824098183
+    second: png lamp_711
+  - first:
+      213: -6015429778246867571
+    second: png lamp_712
+  - first:
+      213: 1052010525305221162
+    second: png lamp_713
+  - first:
+      213: -5098839234886750467
+    second: png lamp_714
+  - first:
+      213: -3444778886181848784
+    second: png lamp_715
+  - first:
+      213: -8976725238133964248
+    second: png lamp_716
+  - first:
+      213: 3428953185449925710
+    second: png lamp_717
+  - first:
+      213: 1563176421125296332
+    second: png lamp_718
+  - first:
+      213: -419913858068676201
+    second: png lamp_719
+  - first:
+      213: 8247928074310372818
+    second: png lamp_720
+  - first:
+      213: -1369720677295764832
+    second: png lamp_721
+  - first:
+      213: 8380508545661560652
+    second: png lamp_722
+  - first:
+      213: -5461296115857669654
+    second: png lamp_723
+  - first:
+      213: 3144924472017765283
+    second: png lamp_724
+  - first:
+      213: 645400402086552641
+    second: png lamp_725
+  - first:
+      213: 4479611866600739707
+    second: png lamp_726
+  - first:
+      213: -2616681054855536101
+    second: png lamp_727
+  - first:
+      213: -7213910384025680516
+    second: png lamp_728
+  - first:
+      213: 3630803409651492700
+    second: png lamp_729
+  - first:
+      213: -77394988584971923
+    second: png lamp_730
+  - first:
+      213: 430256145624759772
+    second: png lamp_731
+  - first:
+      213: 8887844031663880290
+    second: png lamp_732
+  - first:
+      213: -5549024309129315621
+    second: png lamp_733
+  - first:
+      213: 364847819010884272
+    second: png lamp_734
+  - first:
+      213: 6418411513184361949
+    second: png lamp_735
+  - first:
+      213: 7788763189655305169
+    second: png lamp_736
+  - first:
+      213: -8035113387717511994
+    second: png lamp_737
+  - first:
+      213: 3979821335814371265
+    second: png lamp_738
+  - first:
+      213: 8282197669775413734
+    second: png lamp_739
+  - first:
+      213: -103942336892786474
+    second: png lamp_740
+  - first:
+      213: 2208189405345370814
+    second: png lamp_741
+  - first:
+      213: -8487345571245925808
+    second: png lamp_742
+  - first:
+      213: -805967073649877708
+    second: png lamp_743
+  - first:
+      213: 8078167964725073796
+    second: png lamp_744
+  - first:
+      213: 8909137260693864715
+    second: png lamp_745
+  - first:
+      213: 2494207608116244579
+    second: png lamp_746
+  - first:
+      213: 6271381073301713961
+    second: png lamp_747
+  - first:
+      213: -8952703451238549068
+    second: png lamp_748
+  - first:
+      213: 3027749585160399675
+    second: png lamp_749
+  - first:
+      213: -2738044491153478635
+    second: png lamp_750
+  - first:
+      213: -300238348735209885
+    second: png lamp_751
+  - first:
+      213: -9049199508750264083
+    second: png lamp_752
+  - first:
+      213: -3846675041790357369
+    second: png lamp_753
+  - first:
+      213: -2896272432266439812
+    second: png lamp_754
+  - first:
+      213: 4285287126631022530
+    second: png lamp_755
+  - first:
+      213: 3256803799165829505
+    second: png lamp_756
+  - first:
+      213: 7525331138240934741
+    second: png lamp_757
+  - first:
+      213: 9210049062079841708
+    second: png lamp_758
+  - first:
+      213: -789270325916370014
+    second: png lamp_759
+  - first:
+      213: -3593248413986011646
+    second: png lamp_760
+  - first:
+      213: -5370054076630848035
+    second: png lamp_761
+  - first:
+      213: -2438444462959715604
+    second: png lamp_762
+  - first:
+      213: -2934569254404588237
+    second: png lamp_763
+  - first:
+      213: -4773764853594916947
+    second: png lamp_764
+  - first:
+      213: 257469215687627797
+    second: png lamp_765
+  - first:
+      213: 4772191237844652615
+    second: png lamp_766
+  - first:
+      213: -2011649068072546024
+    second: png lamp_767
+  - first:
+      213: -659661427392034148
+    second: png lamp_768
+  - first:
+      213: -5794977077528950797
+    second: png lamp_769
+  - first:
+      213: 8633925333888184070
+    second: png lamp_770
+  - first:
+      213: 2093154013727449077
+    second: png lamp_771
+  - first:
+      213: 3793462681576247935
+    second: png lamp_772
+  - first:
+      213: -5711481265832505621
+    second: png lamp_773
+  - first:
+      213: -118000249305263706
+    second: png lamp_774
+  - first:
+      213: 8539231038979795914
+    second: png lamp_775
+  - first:
+      213: -7793396136625567568
+    second: png lamp_776
+  - first:
+      213: 6899353477712056180
+    second: png lamp_777
+  - first:
+      213: -5771388714873216697
+    second: png lamp_778
+  - first:
+      213: 873252811716894487
+    second: png lamp_779
+  - first:
+      213: -7662989629939040204
+    second: png lamp_780
+  - first:
+      213: 9009168695999983920
+    second: png lamp_781
+  - first:
+      213: -7917894433213935140
+    second: png lamp_782
+  - first:
+      213: -6575219105479246955
+    second: png lamp_783
+  - first:
+      213: -2564706915796047521
+    second: png lamp_784
+  - first:
+      213: -2614383014764809423
+    second: png lamp_785
+  - first:
+      213: -4918488090651561461
+    second: png lamp_786
+  - first:
+      213: -2518361026553343303
+    second: png lamp_787
+  - first:
+      213: -3269169252331726013
+    second: png lamp_788
+  - first:
+      213: -7090746466830523617
+    second: png lamp_789
+  - first:
+      213: 4938957802632749104
+    second: png lamp_790
+  - first:
+      213: 4382402808480328075
+    second: png lamp_791
+  - first:
+      213: 896080469504746447
+    second: png lamp_792
+  - first:
+      213: -7931293881921623584
+    second: png lamp_793
+  - first:
+      213: 5960584610283554787
+    second: png lamp_794
+  - first:
+      213: -1227826803713666953
+    second: png lamp_795
+  - first:
+      213: -3304298111950019165
+    second: png lamp_796
+  - first:
+      213: 2097986090762751115
+    second: png lamp_797
+  - first:
+      213: 8670455522184144751
+    second: png lamp_798
+  - first:
+      213: -7596321211058731183
+    second: png lamp_799
+  - first:
+      213: -5333460832424829268
+    second: png lamp_800
+  - first:
+      213: 995893533133483301
+    second: png lamp_801
+  - first:
+      213: 8945627901306686158
+    second: png lamp_802
+  - first:
+      213: -435863861043146342
+    second: png lamp_803
+  - first:
+      213: 4805069917948823481
+    second: png lamp_804
+  - first:
+      213: 5120722851549150322
+    second: png lamp_805
+  - first:
+      213: 6445600683836376456
+    second: png lamp_806
+  - first:
+      213: -8298857757022007971
+    second: png lamp_807
+  - first:
+      213: 3871248846418707327
+    second: png lamp_808
+  - first:
+      213: -6153161026403653321
+    second: png lamp_809
+  - first:
+      213: -2812059716055672324
+    second: png lamp_810
+  - first:
+      213: -7674393545089460106
+    second: png lamp_811
+  - first:
+      213: 6658082597242241820
+    second: png lamp_812
+  - first:
+      213: -8739170112689975294
+    second: png lamp_813
+  - first:
+      213: -3136398956819913752
+    second: png lamp_814
+  - first:
+      213: 147173559369095603
+    second: png lamp_815
+  - first:
+      213: 366952373780007774
+    second: png lamp_816
+  - first:
+      213: 6905670823763433131
+    second: png lamp_817
+  - first:
+      213: -7728695462777609876
+    second: png lamp_818
+  - first:
+      213: 22395018253230464
+    second: png lamp_819
+  - first:
+      213: -7728131250522868231
+    second: png lamp_820
+  - first:
+      213: -103317726889984098
+    second: png lamp_821
+  - first:
+      213: 965931994144050722
+    second: png lamp_822
+  - first:
+      213: -7035856117379430424
+    second: png lamp_823
+  - first:
+      213: 7466124303270992063
+    second: png lamp_824
+  - first:
+      213: 3559583790686478623
+    second: png lamp_825
+  - first:
+      213: -8355028193716822916
+    second: png lamp_826
+  - first:
+      213: -1978376625965192373
+    second: png lamp_827
+  - first:
+      213: 8083766581997076720
+    second: png lamp_828
+  - first:
+      213: -2524514351574072946
+    second: png lamp_829
+  - first:
+      213: 516732754940396558
+    second: png lamp_830
+  - first:
+      213: -7308669781377241779
+    second: png lamp_831
+  - first:
+      213: -4100196801490660245
+    second: png lamp_832
+  - first:
+      213: -449750433526194179
+    second: png lamp_833
+  - first:
+      213: 5825549526988744477
+    second: png lamp_834
+  - first:
+      213: 2938612678916535407
+    second: png lamp_835
+  - first:
+      213: -7829309642263018173
+    second: png lamp_836
+  - first:
+      213: -1465563259781799874
+    second: png lamp_837
+  - first:
+      213: -6513794213865259547
+    second: png lamp_838
+  - first:
+      213: 8685413693137918765
+    second: png lamp_839
+  - first:
+      213: -2272339164588373319
+    second: png lamp_840
+  - first:
+      213: 4313059829647634737
+    second: png lamp_841
+  - first:
+      213: 8824762245376542936
+    second: png lamp_842
+  - first:
+      213: 5207258999791837272
+    second: png lamp_843
+  - first:
+      213: -7892257761921316333
+    second: png lamp_844
+  - first:
+      213: -3039943052681189776
+    second: png lamp_845
+  - first:
+      213: 3280391760984315834
+    second: png lamp_846
+  - first:
+      213: -8884915379065444751
+    second: png lamp_847
+  - first:
+      213: -1420316032372726795
+    second: png lamp_848
+  - first:
+      213: -4144052016195457259
+    second: png lamp_849
+  - first:
+      213: 5282638465636043790
+    second: png lamp_850
+  - first:
+      213: 3748631452839337797
+    second: png lamp_851
+  - first:
+      213: -6204251902305983956
+    second: png lamp_852
+  - first:
+      213: -7881427971196293996
+    second: png lamp_853
+  - first:
+      213: 9072369465126939271
+    second: png lamp_854
+  - first:
+      213: 908211500975459008
+    second: png lamp_855
+  - first:
+      213: -2883465317506925488
+    second: png lamp_856
+  - first:
+      213: 1710394758281368978
+    second: png lamp_857
+  - first:
+      213: 6484914308408127811
+    second: png lamp_858
+  - first:
+      213: -8419878446027198191
+    second: png lamp_859
+  - first:
+      213: -100262555675240696
+    second: png lamp_860
+  - first:
+      213: -5062591785354085029
+    second: png lamp_861
+  - first:
+      213: -1686668481680580865
+    second: png lamp_862
+  - first:
+      213: -9012171592435110307
+    second: png lamp_863
+  - first:
+      213: -3743278678059487560
+    second: png lamp_864
+  - first:
+      213: 3095199007676453356
+    second: png lamp_865
+  - first:
+      213: -6610541897646088336
+    second: png lamp_866
+  - first:
+      213: 1964770168681650611
+    second: png lamp_867
+  - first:
+      213: 5691037856517995164
+    second: png lamp_868
+  - first:
+      213: -2639152409295127182
+    second: png lamp_869
+  - first:
+      213: 1937764380978206821
+    second: png lamp_870
+  - first:
+      213: -4154088459341712305
+    second: png lamp_871
+  - first:
+      213: 506489122226487667
+    second: png lamp_872
+  - first:
+      213: 1276114265253788296
+    second: png lamp_873
+  - first:
+      213: -5607714893510113168
+    second: png lamp_874
+  - first:
+      213: -5005894395075031996
+    second: png lamp_875
+  - first:
+      213: 5102921398940000041
+    second: png lamp_876
+  - first:
+      213: 6851941426785424072
+    second: png lamp_877
+  - first:
+      213: 8252861507059007544
+    second: png lamp_878
+  - first:
+      213: -1174420935659413742
+    second: png lamp_879
+  - first:
+      213: -6645870056278330646
+    second: png lamp_880
+  - first:
+      213: -3675108618338215941
+    second: png lamp_881
+  - first:
+      213: -3307723872511424145
+    second: png lamp_882
+  - first:
+      213: 8080667427645281079
+    second: png lamp_883
+  - first:
+      213: -6904079016499022117
+    second: png lamp_884
+  - first:
+      213: 2018426153014011792
+    second: png lamp_885
+  - first:
+      213: 402651560688560050
+    second: png lamp_886
+  - first:
+      213: -7288993294167019304
+    second: png lamp_887
+  - first:
+      213: 7188316589619100665
+    second: png lamp_888
+  - first:
+      213: 1100661283499892961
+    second: png lamp_889
+  - first:
+      213: -1679707009374135471
+    second: png lamp_890
+  - first:
+      213: 5836744039855891764
+    second: png lamp_891
+  - first:
+      213: 4000542395416224106
+    second: png lamp_892
+  - first:
+      213: -7947356674866437122
+    second: png lamp_893
+  - first:
+      213: 2334494909849659274
+    second: png lamp_894
+  - first:
+      213: 9046473242755475625
+    second: png lamp_895
+  - first:
+      213: -9033075430492376973
+    second: png lamp_896
+  - first:
+      213: 5104133401691010851
+    second: png lamp_897
+  - first:
+      213: -7107191702058717034
+    second: png lamp_898
+  - first:
+      213: 7778082470424743258
+    second: png lamp_899
+  - first:
+      213: -3751103628484646852
+    second: png lamp_900
+  - first:
+      213: -2135677533379286730
+    second: png lamp_901
+  - first:
+      213: -8746021898720411540
+    second: png lamp_902
+  - first:
+      213: -7449637082563889929
+    second: png lamp_903
+  - first:
+      213: 6620229235615565742
+    second: png lamp_904
+  - first:
+      213: -8448954255673312391
+    second: png lamp_905
+  - first:
+      213: -7448291862128754259
+    second: png lamp_906
+  - first:
+      213: 5916329496749742772
+    second: png lamp_907
+  - first:
+      213: 770665412839699665
+    second: png lamp_908
+  - first:
+      213: -2324247265098453818
+    second: png lamp_909
+  - first:
+      213: -2537027815130612486
+    second: png lamp_910
+  - first:
+      213: 5441691652550295127
+    second: png lamp_911
+  - first:
+      213: 940290526738713083
+    second: png lamp_912
+  - first:
+      213: -3132819344893227370
+    second: png lamp_913
+  - first:
+      213: 2278391033970941891
+    second: png lamp_914
+  - first:
+      213: 8760966745011296089
+    second: png lamp_915
+  - first:
+      213: 2660955774195145507
+    second: png lamp_916
+  - first:
+      213: 1191120307838146928
+    second: png lamp_917
+  - first:
+      213: 1876411950723792568
+    second: png lamp_918
+  - first:
+      213: -1009478555364427615
+    second: png lamp_919
+  - first:
+      213: -2744915605810527682
+    second: png lamp_920
+  - first:
+      213: -1550589801428750295
+    second: png lamp_921
+  - first:
+      213: -9209808090834797365
+    second: png lamp_922
+  - first:
+      213: -2100291344002826504
+    second: png lamp_923
+  - first:
+      213: 3472241497855689183
+    second: png lamp_924
+  - first:
+      213: -7659879808060966099
+    second: png lamp_925
+  - first:
+      213: -5683329836705944197
+    second: png lamp_926
+  - first:
+      213: 6398375820482688546
+    second: png lamp_927
+  - first:
+      213: 7117521531788989394
+    second: png lamp_928
+  - first:
+      213: 2005457742254991181
+    second: png lamp_929
+  - first:
+      213: -7052363734195123930
+    second: png lamp_930
+  - first:
+      213: -7668854803179877695
+    second: png lamp_931
+  - first:
+      213: 3290768510961491651
+    second: png lamp_932
+  - first:
+      213: -2080142645950171039
+    second: png lamp_933
+  - first:
+      213: -2631879836071898888
+    second: png lamp_934
+  - first:
+      213: -1904396052007981259
+    second: png lamp_935
+  - first:
+      213: 21207147232532805
+    second: png lamp_936
+  - first:
+      213: 2312801733190327202
+    second: png lamp_937
+  - first:
+      213: -8204231003632587409
+    second: png lamp_938
+  - first:
+      213: 5054031993204029274
+    second: png lamp_939
+  - first:
+      213: 1560748727671000710
+    second: png lamp_940
+  - first:
+      213: 539505812224413674
+    second: png lamp_941
+  - first:
+      213: 6458251224368288226
+    second: png lamp_942
+  - first:
+      213: 8298932692261039036
+    second: png lamp_943
+  - first:
+      213: 6223079130454316482
+    second: png lamp_944
+  - first:
+      213: 329439184807775691
+    second: png lamp_945
+  - first:
+      213: 8073162833266772165
+    second: png lamp_946
+  - first:
+      213: -6602725919260411157
+    second: png lamp_947
+  - first:
+      213: -5127752811192374313
+    second: png lamp_948
+  - first:
+      213: 4769314228833100219
+    second: png lamp_949
+  - first:
+      213: -1833731873134466924
+    second: png lamp_950
+  - first:
+      213: -3157373708738864064
+    second: png lamp_951
+  - first:
+      213: -1803978212119404786
+    second: png lamp_952
+  - first:
+      213: -706622504560393550
+    second: png lamp_953
+  - first:
+      213: 6883752499659559635
+    second: png lamp_954
+  - first:
+      213: 5280290477554976722
+    second: png lamp_955
+  - first:
+      213: -2123904614326758940
+    second: png lamp_956
+  - first:
+      213: -8194911410753489117
+    second: png lamp_957
+  - first:
+      213: -955485951966441652
+    second: png lamp_958
+  - first:
+      213: 1360373756740329780
+    second: png lamp_959
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png lamp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac14ee9e9a94e90800000000000000
+      internalID: -7040909720227296540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png lamp_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ad6c3933e076c10800000000000000
+      internalID: 2046620170348583498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png lamp_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46d3e9487784f30800000000000000
+      internalID: 4560026034186839229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png lamp_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee452bfb7994b570800000000000000
+      internalID: 8481572756019039971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

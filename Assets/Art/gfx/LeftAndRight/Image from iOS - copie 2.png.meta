@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: e179d50a4cc8d4c7aa6fcbf08bbf1a1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8102898655282756957
+    second: "Image from iOS - copie\_2_0"
+  - first:
+      213: 8320151826347303989
+    second: "Image from iOS - copie\_2_1"
+  - first:
+      213: 8534630594501476126
+    second: "Image from iOS - copie\_2_2"
+  - first:
+      213: -6843010120506007101
+    second: "Image from iOS - copie\_2_3"
+  - first:
+      213: -6119161432023486010
+    second: "Image from iOS - copie\_2_4"
+  - first:
+      213: -6227255988839660039
+    second: "Image from iOS - copie\_2_5"
+  - first:
+      213: 1360599886059044469
+    second: "Image from iOS - copie\_2_6"
+  - first:
+      213: 3125101579949109942
+    second: "Image from iOS - copie\_2_7"
+  - first:
+      213: -772197945065361802
+    second: "Image from iOS - copie\_2_8"
+  - first:
+      213: -3400024799713398633
+    second: "Image from iOS - copie\_2_9"
+  - first:
+      213: 8472346177691077346
+    second: "Image from iOS - copie\_2_10"
+  - first:
+      213: -273766996176968494
+    second: "Image from iOS - copie\_2_11"
+  - first:
+      213: -7000498633482795958
+    second: "Image from iOS - copie\_2_12"
+  - first:
+      213: -2127088378169430252
+    second: "Image from iOS - copie\_2_13"
+  - first:
+      213: 1069831657963675085
+    second: "Image from iOS - copie\_2_14"
+  - first:
+      213: -1311884801246197083
+    second: "Image from iOS - copie\_2_15"
+  - first:
+      213: -523872795866269127
+    second: "Image from iOS - copie\_2_16"
+  - first:
+      213: -8887638333116672196
+    second: "Image from iOS - copie\_2_17"
+  - first:
+      213: 6582169361992094467
+    second: "Image from iOS - copie\_2_18"
+  - first:
+      213: 2812948723511861160
+    second: "Image from iOS - copie\_2_19"
+  - first:
+      213: 1576602347752808592
+    second: "Image from iOS - copie\_2_20"
+  - first:
+      213: 6854885454793374751
+    second: "Image from iOS - copie\_2_21"
+  - first:
+      213: 9123158231958678117
+    second: "Image from iOS - copie\_2_22"
+  - first:
+      213: -5257922311755976592
+    second: "Image from iOS - copie\_2_23"
+  - first:
+      213: -8492445510979389498
+    second: "Image from iOS - copie\_2_24"
+  - first:
+      213: 3571000642168886498
+    second: "Image from iOS - copie\_2_25"
+  - first:
+      213: -3776203562723776543
+    second: "Image from iOS - copie\_2_26"
+  - first:
+      213: -732730621351666220
+    second: "Image from iOS - copie\_2_27"
+  - first:
+      213: -4466272771714009180
+    second: "Image from iOS - copie\_2_28"
+  - first:
+      213: -4939995781359190006
+    second: "Image from iOS - copie\_2_29"
+  - first:
+      213: 9013314251295896182
+    second: "Image from iOS - copie\_2_30"
+  - first:
+      213: 5189058571296375524
+    second: "Image from iOS - copie\_2_31"
+  - first:
+      213: 2082569447118160064
+    second: "Image from iOS - copie\_2_32"
+  - first:
+      213: 5872727203285836565
+    second: "Image from iOS - copie\_2_33"
+  - first:
+      213: 5461013739813528876
+    second: "Image from iOS - copie\_2_34"
+  - first:
+      213: -5185570828299525771
+    second: "Image from iOS - copie\_2_35"
+  - first:
+      213: 923875081764902838
+    second: "Image from iOS - copie\_2_36"
+  - first:
+      213: -3037028620863756488
+    second: "Image from iOS - copie\_2_37"
+  - first:
+      213: 1694900351317238050
+    second: "Image from iOS - copie\_2_38"
+  - first:
+      213: 4455721055915539669
+    second: "Image from iOS - copie\_2_39"
+  - first:
+      213: -8662353488994065139
+    second: "Image from iOS - copie\_2_40"
+  - first:
+      213: -5430949946763753935
+    second: "Image from iOS - copie\_2_41"
+  - first:
+      213: 751952185591467602
+    second: "Image from iOS - copie\_2_42"
+  - first:
+      213: 6358417505126965758
+    second: "Image from iOS - copie\_2_43"
+  - first:
+      213: 4368311963262045699
+    second: "Image from iOS - copie\_2_44"
+  - first:
+      213: -8895288152201082832
+    second: "Image from iOS - copie\_2_45"
+  - first:
+      213: 239566180620310547
+    second: "Image from iOS - copie\_2_46"
+  - first:
+      213: 7485232710158809466
+    second: "Image from iOS - copie\_2_47"
+  - first:
+      213: 8790679648569186145
+    second: "Image from iOS - copie\_2_48"
+  - first:
+      213: -636611758779664230
+    second: "Image from iOS - copie\_2_49"
+  - first:
+      213: -2022113419365329659
+    second: "Image from iOS - copie\_2_50"
+  - first:
+      213: 6942623019293303105
+    second: "Image from iOS - copie\_2_51"
+  - first:
+      213: -1327320603809541678
+    second: "Image from iOS - copie\_2_52"
+  - first:
+      213: -9067490784129145233
+    second: "Image from iOS - copie\_2_53"
+  - first:
+      213: -2152081340120335638
+    second: "Image from iOS - copie\_2_54"
+  - first:
+      213: -5649839661629554492
+    second: "Image from iOS - copie\_2_55"
+  - first:
+      213: -3181643369920504476
+    second: "Image from iOS - copie\_2_56"
+  - first:
+      213: -5902508529992361174
+    second: "Image from iOS - copie\_2_57"
+  - first:
+      213: -845194408400569934
+    second: "Image from iOS - copie\_2_58"
+  - first:
+      213: 7830902106385156893
+    second: "Image from iOS - copie\_2_59"
+  - first:
+      213: 43462182492675096
+    second: "Image from iOS - copie\_2_60"
+  - first:
+      213: 1400607323437248377
+    second: "Image from iOS - copie\_2_61"
+  - first:
+      213: 6815490949666821346
+    second: "Image from iOS - copie\_2_62"
+  - first:
+      213: 7628756611473668435
+    second: "Image from iOS - copie\_2_63"
+  - first:
+      213: -7587425577276149511
+    second: "Image from iOS - copie\_2_64"
+  - first:
+      213: -4464215974064676043
+    second: "Image from iOS - copie\_2_65"
+  - first:
+      213: -8880946845312361800
+    second: "Image from iOS - copie\_2_66"
+  - first:
+      213: -5586336310351096717
+    second: "Image from iOS - copie\_2_67"
+  - first:
+      213: 2710337180724591200
+    second: "Image from iOS - copie\_2_68"
+  - first:
+      213: 8480261888624825834
+    second: "Image from iOS - copie\_2_69"
+  - first:
+      213: -3103777384018429464
+    second: "Image from iOS - copie\_2_70"
+  - first:
+      213: 2596504632422896568
+    second: "Image from iOS - copie\_2_71"
+  - first:
+      213: 5338945627218614834
+    second: "Image from iOS - copie\_2_72"
+  - first:
+      213: -7484714571051989659
+    second: "Image from iOS - copie\_2_73"
+  - first:
+      213: -4236347527328004963
+    second: "Image from iOS - copie\_2_74"
+  - first:
+      213: -8659494482173608778
+    second: "Image from iOS - copie\_2_75"
+  - first:
+      213: 7493440327681483479
+    second: "Image from iOS - copie\_2_76"
+  - first:
+      213: -3968989739108729741
+    second: "Image from iOS - copie\_2_77"
+  - first:
+      213: -5832927318870741061
+    second: "Image from iOS - copie\_2_78"
+  - first:
+      213: -8131878173179452287
+    second: "Image from iOS - copie\_2_79"
+  - first:
+      213: 3156835166910739334
+    second: "Image from iOS - copie\_2_80"
+  - first:
+      213: 4379592432510015234
+    second: "Image from iOS - copie\_2_81"
+  - first:
+      213: -3169761743192621235
+    second: "Image from iOS - copie\_2_82"
+  - first:
+      213: -1082719309946840299
+    second: "Image from iOS - copie\_2_83"
+  - first:
+      213: -8401756707810933019
+    second: "Image from iOS - copie\_2_84"
+  - first:
+      213: 2780223887212782875
+    second: "Image from iOS - copie\_2_85"
+  - first:
+      213: 3886213733454616900
+    second: "Image from iOS - copie\_2_86"
+  - first:
+      213: -3045974907889447176
+    second: "Image from iOS - copie\_2_87"
+  - first:
+      213: 4625808824195982911
+    second: "Image from iOS - copie\_2_88"
+  - first:
+      213: -7114423700595389889
+    second: "Image from iOS - copie\_2_89"
+  - first:
+      213: 7509102902655413021
+    second: "Image from iOS - copie\_2_90"
+  - first:
+      213: -3586791136451135893
+    second: "Image from iOS - copie\_2_91"
+  - first:
+      213: -6745086751820167663
+    second: "Image from iOS - copie\_2_92"
+  - first:
+      213: -526991118808241890
+    second: "Image from iOS - copie\_2_93"
+  - first:
+      213: -1800577099907110477
+    second: "Image from iOS - copie\_2_94"
+  - first:
+      213: 1403363025864150165
+    second: "Image from iOS - copie\_2_95"
+  - first:
+      213: 4037379320408839697
+    second: "Image from iOS - copie\_2_96"
+  - first:
+      213: -2948907970996669699
+    second: "Image from iOS - copie\_2_97"
+  - first:
+      213: -2456057527653303875
+    second: "Image from iOS - copie\_2_98"
+  - first:
+      213: 3908846067373418436
+    second: "Image from iOS - copie\_2_99"
+  - first:
+      213: 8605110859748464231
+    second: "Image from iOS - copie\_2_100"
+  - first:
+      213: 6896067396873085039
+    second: "Image from iOS - copie\_2_101"
+  - first:
+      213: -2016631987918858502
+    second: "Image from iOS - copie\_2_102"
+  - first:
+      213: -2500021237090039102
+    second: "Image from iOS - copie\_2_103"
+  - first:
+      213: -1678282785769612339
+    second: "Image from iOS - copie\_2_104"
+  - first:
+      213: -5741187669182354851
+    second: "Image from iOS - copie\_2_105"
+  - first:
+      213: 5311064060228381173
+    second: "Image from iOS - copie\_2_106"
+  - first:
+      213: -3821873861465986208
+    second: "Image from iOS - copie\_2_107"
+  - first:
+      213: 3566287803712634693
+    second: "Image from iOS - copie\_2_108"
+  - first:
+      213: 6657755276979353204
+    second: "Image from iOS - copie\_2_109"
+  - first:
+      213: 4557512957828484911
+    second: "Image from iOS - copie\_2_110"
+  - first:
+      213: -8115855841202826313
+    second: "Image from iOS - copie\_2_111"
+  - first:
+      213: -7335691162019029973
+    second: "Image from iOS - copie\_2_112"
+  - first:
+      213: -7774488010051570124
+    second: "Image from iOS - copie\_2_113"
+  - first:
+      213: -7710953524888769894
+    second: "Image from iOS - copie\_2_114"
+  - first:
+      213: 3088784466256207620
+    second: "Image from iOS - copie\_2_115"
+  - first:
+      213: -3664881113670928234
+    second: "Image from iOS - copie\_2_116"
+  - first:
+      213: -8484949039770451798
+    second: "Image from iOS - copie\_2_117"
+  - first:
+      213: -2124782136316749085
+    second: "Image from iOS - copie\_2_118"
+  - first:
+      213: 1045201600804845861
+    second: "Image from iOS - copie\_2_119"
+  - first:
+      213: -4880672991843615973
+    second: "Image from iOS - copie\_2_120"
+  - first:
+      213: 2978426554399017526
+    second: "Image from iOS - copie\_2_121"
+  - first:
+      213: 769165817623411952
+    second: "Image from iOS - copie\_2_122"
+  - first:
+      213: -339478799185859546
+    second: "Image from iOS - copie\_2_123"
+  - first:
+      213: 182324468812445742
+    second: "Image from iOS - copie\_2_124"
+  - first:
+      213: -2705657035597790973
+    second: "Image from iOS - copie\_2_125"
+  - first:
+      213: 253921345063488875
+    second: "Image from iOS - copie\_2_126"
+  - first:
+      213: -2163227717073873393
+    second: "Image from iOS - copie\_2_127"
+  - first:
+      213: -8679363472079156511
+    second: "Image from iOS - copie\_2_128"
+  - first:
+      213: 6349260810631829850
+    second: "Image from iOS - copie\_2_129"
+  - first:
+      213: 8765535703423953902
+    second: "Image from iOS - copie\_2_130"
+  - first:
+      213: 6383594659079375376
+    second: "Image from iOS - copie\_2_131"
+  - first:
+      213: -7821719536563861745
+    second: "Image from iOS - copie\_2_132"
+  - first:
+      213: -1741865032450678113
+    second: "Image from iOS - copie\_2_133"
+  - first:
+      213: -8998516385349862790
+    second: "Image from iOS - copie\_2_134"
+  - first:
+      213: 7562158396981443840
+    second: "Image from iOS - copie\_2_135"
+  - first:
+      213: -3629761761928350542
+    second: "Image from iOS - copie\_2_136"
+  - first:
+      213: 826639305187486888
+    second: "Image from iOS - copie\_2_137"
+  - first:
+      213: -6524893021639436700
+    second: "Image from iOS - copie\_2_138"
+  - first:
+      213: -861390792452455043
+    second: "Image from iOS - copie\_2_139"
+  - first:
+      213: 1257228375078263334
+    second: "Image from iOS - copie\_2_140"
+  - first:
+      213: -8862850089620979279
+    second: "Image from iOS - copie\_2_141"
+  - first:
+      213: -9136185275328165248
+    second: "Image from iOS - copie\_2_142"
+  - first:
+      213: -1342685531173675219
+    second: "Image from iOS - copie\_2_143"
+  - first:
+      213: 6095966081038843852
+    second: "Image from iOS - copie\_2_144"
+  - first:
+      213: 7571543926870105065
+    second: "Image from iOS - copie\_2_145"
+  - first:
+      213: 2705512182576651242
+    second: "Image from iOS - copie\_2_146"
+  - first:
+      213: 7867816379757525635
+    second: "Image from iOS - copie\_2_147"
+  - first:
+      213: -1085123053519705888
+    second: "Image from iOS - copie\_2_148"
+  - first:
+      213: -4753992744826780266
+    second: "Image from iOS - copie\_2_149"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d7e1f5567437070800000000000000
+      internalID: 8102898655282756957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_1"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534afb6010e177370800000000000000
+      internalID: 8320151826347303989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_2"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 93
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff07aae49117670800000000000000
+      internalID: 8534630594501476126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_3"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 93
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c126dc1d8eb801a0800000000000000
+      internalID: -6843010120506007101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c138f8291f541ba0800000000000000
+      internalID: -6119161432023486010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_5"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5c9cbeba75499a0800000000000000
+      internalID: -6227255988839660039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_6"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7cf93362d1e210800000000000000
+      internalID: 1360599886059044469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Image from iOS - copie\_2_7"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f0e754579e5b20800000000000000
+      internalID: 3125101579949109942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
